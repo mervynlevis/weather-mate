@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather-mate/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/weather-mate/static/js/main.4c572ecf.chunk.js",
+    "main.js.map": "/weather-mate/static/js/main.4c572ecf.chunk.js.map",
+    "runtime-main.js": "/weather-mate/static/js/runtime-main.9f870da3.js",
+    "runtime-main.js.map": "/weather-mate/static/js/runtime-main.9f870da3.js.map",
+    "static/js/2.5bf3f811.chunk.js": "/weather-mate/static/js/2.5bf3f811.chunk.js",
+    "static/js/2.5bf3f811.chunk.js.map": "/weather-mate/static/js/2.5bf3f811.chunk.js.map",
+    "static/js/3.55479ae4.chunk.js": "/weather-mate/static/js/3.55479ae4.chunk.js",
+    "static/js/3.55479ae4.chunk.js.map": "/weather-mate/static/js/3.55479ae4.chunk.js.map",
+    "index.html": "/weather-mate/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/weather-mate/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.5bf3f811.chunk.js.LICENSE.txt": "/weather-mate/static/js/2.5bf3f811.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/weather-mate/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f870da3.js",
+    "static/js/2.5bf3f811.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.4c572ecf.chunk.js"
+  ]
+}
